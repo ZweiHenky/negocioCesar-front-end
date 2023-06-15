@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+}
+
+.contenedor-home{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20vh;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.bienvenido{
+    font-size: 4rem;
+}
+
+.nombre{
+    margin-top: 2vh;
+    font-size: 2rem;
+}
+
+.body-home{
+    background-image: url('../../assets/img/fondo2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}

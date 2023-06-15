@@ -1,0 +1,18 @@
+.contenedor-compras{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.autocomplete{
+    width: 100%;
+}
+
+input[type='text']::placeholder{
+    opacity: 0.4;
+}
+
+.contenedor-botones{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}

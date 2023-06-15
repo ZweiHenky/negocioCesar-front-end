@@ -1,0 +1,14 @@
+form{
+    width: 100%;
+    padding: 2vh;
+    display: flex;
+    flex-direction: column;
+}
+
+form input[type="text"]{
+    margin-top: 2vh;
+}
+
+form input[type="submit"]{
+    margin-top: 4vh;
+}
